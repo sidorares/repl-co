@@ -1,0 +1,16 @@
+{
+  "name": "repl-co",
+  "version": "0.0.0",
+  "description": "Node.js repl with yield support",
+  "bin": {
+    "repl-co": "./repl.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "co": "~1.5.2"
+  }
+}
