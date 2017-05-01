@@ -1,6 +1,8 @@
 repl-co
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/repl-co.svg)](https://greenkeeper.io/)
+
 node repl with yield support
 
 ### Example:
